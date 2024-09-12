@@ -7,7 +7,26 @@ img {
     width: auto;
 }
 
+#website-title {
+    font-family: 'Courier New'
+}
+
 h1 {
     background-color: aqua;
-    color: black;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: lavender;
+    font-size: 40px;
+}
+
+p,
+a {
+    font-size: 30px;
+}
+
+ul,
+ol {
+    font-size: 30px;
 }
