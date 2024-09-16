@@ -1,5 +1,6 @@
-* {
+body {
     font-family: "Helvetica", "Times New Roman", serif;
+    background-color: #eee;
 }
 
 img {
@@ -8,7 +9,39 @@ img {
 }
 
 #website-title {
-    font-family: 'Courier New'
+    font-family: 'Courier New';
+    border: 4px dotted black;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.recipe-list {
+    background-color: #D3D3D3;
+    width: 500px;
+    padding: 15px 20px;
+    margin: 10px auto;
+    border-radius: 15px;
+}
+
+.recipe {
+    background: #FAF9F6;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.nav{
+    display: block;
+    background-color: #189BCC;
+    border: 8px solid #EA213A;
+    margin: 20px auto;
+    color: white;
+    width: 150px;
+    text-align: center;
+    padding: 25px 35px;
+    border-radius: 15px;
+    font-size: 35px;
 }
 
 h1 {
