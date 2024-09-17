@@ -10,6 +10,7 @@ img {
 
 #website-title {
     font-family: 'Courier New';
+    background-color: aqua;
     border: 4px dotted black;
     padding: 10px;
     border-radius: 15px;
@@ -45,8 +46,11 @@ img {
 }
 
 h1 {
-    background-color: aqua;
+    background-color: rgba(137, 148, 146, 0.637);
     font-size: 60px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 4px solid black
 }
 
 h2 {
