@@ -1,11 +1,14 @@
 body {
     font-family: "Helvetica", "Times New Roman", serif;
     background-color: #eee;
+    margin: 15px
 }
 
 img {
     height: 500px;
     width: auto;
+    border: 15px solid white;
+    border-radius: 15px;
 }
 
 #website-title {
